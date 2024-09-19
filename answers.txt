@@ -13,3 +13,9 @@ Doctors and nurses often have many patients and need to review large
 volumes of data.  Data science can help by analyzing these large datasets 
 of patient records and other laboratory resources to identify patterns and 
 potentially predict diseases early.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: The difference between merging and rebasing is that merging 
+creates a new commit combining the history of each branch. Rebasing 
+rewrites the commit by moving one branch on top of another.
