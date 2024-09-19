@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: git is a good way to manage your projects.  You're able to track 
+changes to your code and collobarate with others.  It also provides an 
+organized history of changes, making it easier to debug your code.
